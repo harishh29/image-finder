@@ -11,7 +11,7 @@
 
 body{
     line-height: 1.6;
-    background-color: #00b8ff;
+    background-color: #e8dfce;
 }
 
 h1{
@@ -20,7 +20,7 @@ h1{
     text-align: center;
     margin: 40px 0 60px 0;
     font-family: "Kode Mono", monospace;
-    color: #9600ff;
+    color: #b65149;
 }
 
 form{
@@ -46,7 +46,7 @@ form{
 #search-button{
     padding: 10px 20px;
     color: #ffffff;
-    background-color: #4900ff;
+    background-color: #7e8e65;
     border: none;
     font-size: 18px;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
@@ -68,7 +68,7 @@ form{
     height: 100%;
     border-radius: 5px;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
-    background-color: #00fff9;
+    background-color: #e09b80;
     overflow: hidden;
 }
 
@@ -94,7 +94,7 @@ form{
 }
 
 #search-more{
-    background-color: #4900ff;
+    background-color: #7e8e65;
     font-size: 18px;
     border: none;
     color: #ffffff;
